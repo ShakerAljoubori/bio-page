@@ -1,0 +1,22 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: linear-gradient(black, grey);
+    color: white;
+}
+
+h1 {
+    font-size: 75px;
+}
+
+img {
+    width: 400px;
+}
+
+a {
+    color: white;
+}
+
+h1, h2, h3, p, li, strong, a {
+    display: flex;
+    justify-content: flex-end;
+}
