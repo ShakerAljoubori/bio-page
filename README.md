@@ -10,4 +10,4 @@ To create a new branch
 4. make changes
 5. git add .
 6. git commit -m '<enter the description of the change. Ex. "I added a new file">'
-7. git push -u origin <enter branch name>
+7. git push -u origin (enter branch name)
